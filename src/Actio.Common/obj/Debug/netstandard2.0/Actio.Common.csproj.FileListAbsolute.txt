@@ -1,0 +1,8 @@
+E:\Actio\src\Actio.Common\bin\Debug\netstandard2.0\Actio.Common.deps.json
+E:\Actio\src\Actio.Common\bin\Debug\netstandard2.0\Actio.Common.dll
+E:\Actio\src\Actio.Common\bin\Debug\netstandard2.0\Actio.Common.pdb
+E:\Actio\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.csproj.CoreCompileInputs.cache
+E:\Actio\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.AssemblyInfoInputs.cache
+E:\Actio\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.AssemblyInfo.cs
+E:\Actio\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.dll
+E:\Actio\src\Actio.Common\obj\Debug\netstandard2.0\Actio.Common.pdb
