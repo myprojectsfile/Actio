@@ -4,5 +4,4 @@ namespace Actio.Common.Commands
     {
 
     }
-
 }
