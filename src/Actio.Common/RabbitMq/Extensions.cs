@@ -16,7 +16,7 @@ namespace Actio.Common.RabbitMq
         ICommandHandler<TCommand> handler) where TCommand : ICommand
     {
       return bus.SubscribeAsync<TCommand>(msg => handler.HandleAsync(msg),
-                     ctx => ctx.UseConsumeSemaphoreonsumerConfiguration(cfg =>
+                     ctx => ctx.UseConsumerConfiguration(cfg =>
                      cfg.FromDeclaredQueue(q => q.WithName(GetQueueName<TCommand>()))));
     }
 
