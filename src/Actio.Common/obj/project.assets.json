@@ -30,7 +30,7 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "KU8f2A5xccuHnoJin+YfK1Qsp3t8lbjSqg4Z5d2nF3/vm9ZPNTRBZxwKfrEZFOysBPEQZrEWvcKVZjcUvRHvlg==",
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -177,23 +177,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ahmadi.mohammad\\.nuget\\packages\\": {},
+    "C:\\Users\\BMPO\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Actio\\src\\Actio.Common\\Actio.Common.csproj",
+      "projectUniqueName": "c:\\projects\\Actio\\src\\Actio.Common\\Actio.Common.csproj",
       "projectName": "Actio.Common",
-      "projectPath": "E:\\Actio\\src\\Actio.Common\\Actio.Common.csproj",
-      "packagesPath": "C:\\Users\\ahmadi.mohammad\\.nuget\\packages\\",
-      "outputPath": "E:\\Actio\\src\\Actio.Common\\obj\\",
+      "projectPath": "c:\\projects\\Actio\\src\\Actio.Common\\Actio.Common.csproj",
+      "packagesPath": "C:\\Users\\BMPO\\.nuget\\packages\\",
+      "outputPath": "c:\\projects\\Actio\\src\\Actio.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ahmadi.mohammad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\BMPO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

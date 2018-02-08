@@ -1,1 +1,4 @@
-*/bin/*.dll
+src/Actio.Api/obj/Debug/netcoreapp2.0/*.*
+src/Actio.Common/obj/Debug/netcoreapp2.0/*.*
+src/Actio.Services./Debug/netcoreapp2.0/Activities/obj/*.*
+src/Actio.Services.Identity/obj/Debug/netcoreapp2.0/*.*
